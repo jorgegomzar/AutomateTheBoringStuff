@@ -12,7 +12,7 @@
 </ol>
 <h3>Projects</h3>
 <h4><b><a name="tictactoe.py" href="tictactoe.py">TicTacToe game</a></b></h4>
-<p>This code is to test the efficiency of dictionaries, I ignore if there is a more practical way to do this (I mean the code to determine who wins the game)</p>
+<p>This code is to test the efficiency of dictionaries, I ignore if there is a more practical way to do this (I mean the code to determine who wins the game).</p>
 <h4><b><a href="pw.py" name="pw.py">Project: Password Locker</a></b></h4>
 <p><b>Note:</b> In order to the batch file to work some changes may be needed, note that the route in the file is relative to where the python file is.</p>
-<p>With this code I intended to test the use of python scripts as commands from the CMD of Windows.</p>
+<p>With this code I intended to test the use of python scripts as commands from the CMD of Windows. Also is needed to install pyperclip in order to use this script.</p>
