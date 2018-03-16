@@ -1,6 +1,6 @@
 <h2>AutomateTheBoringStuff</h2>
 <p>This is a repository whose purpose is merely as a testing bench for python code.</p>
-<p>Most of the code is from the book "Automate the Boring Stuff" from Al Sweigart, note that I do not own any right over this code or ideas.</p>
+<p>Most of the code is from the book <em>Automate the Boring Stuff</em> from Al Sweigart, note that I do not own any right over this code or ideas.</p>
 <h3>Index</h3>
 <ol>
 	<li>
