@@ -10,7 +10,7 @@
 		<h4><a href="#pw.py">Project: Password Locker</a></h4>
 	</li>
 </ol>
-
+<h3>Projects</h3>
 <h4><b><a name="tictactoe.py" href="tictactoe.py">TicTacToe game</a></b></h4>
 <p>This code is to test the efficiency of dictionaries, I ignore if there is a more practical way to do this (I mean the code to determine who wins the game)</p>
 <h4><b><a href="pw.py" name="pw.py">Project: Password Locker</a></b></h4>
