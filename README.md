@@ -1,5 +1,6 @@
 <h2>AutomateTheBoringStuff</h2>
 <p>This is a repository whose purpose is merely as a testing bench for python code.</p>
+<p>Most of the code if from the book "Automate the Boring Stuff" from Al Sweigart, note that I do not own any right over this code or ideas.</p>
 <h3>Index</h3>
 <ol>
 	<li><h4><a href="#tictactoe.py">TicTacToe game</a></h4></li>
